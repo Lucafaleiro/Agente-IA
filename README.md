@@ -102,3 +102,5 @@ Melhorias:
 Criar parser sintático próprio para NL → lógica proposicional.
 Adicionar modo pedagógico, explicando cada passo da tradução.
 Treinar modelo próprio com dataset específico (NL ↔CPC).
+
+https://agente-de-ia-vzstmlwfxe2qhgeapmqcm8.streamlit.app/
